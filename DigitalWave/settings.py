@@ -161,8 +161,8 @@ PAYPAL_TEXT = True
 LOGIN_URL = '/connexion/'
 #paypal integration
 
-PAYPAL_CLIENT_ID = ''
-PAYPAL_CLIENT_SECRET = ''
+# PAYPAL_CLIENT_ID 
+# PAYPAL_CLIENT_SECRET 
 PAYPAL_MODE = 'sandbox'
 
 
